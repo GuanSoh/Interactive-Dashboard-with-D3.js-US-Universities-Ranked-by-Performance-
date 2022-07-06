@@ -29,7 +29,8 @@ The ratio can be hovered over to view the exact value.
 
 ![alt text](https://github.com/GuanSoh/Interactive-Dashboard-with-D3.js-US-Universities-Ranked-by-Performance-/blob/main/Image/Bar%20Chart.jpg)
 
-The ratio can be hovered over to view the exact value.
+The bars are coloured from red to green to indicate how high the rating is for each year.
+
 
 
 
