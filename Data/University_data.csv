@@ -1,0 +1,415 @@
+,University_Name,value,size,lat,lon,World_Rank,Country,Teaching_Rating,Inter_Outlook_Rating,Research_Rating,Citations_Rating,Industry_Income_Rating,Total_Score,Num_Students,Student_Staff_Ratio,Inter_Students_Ratio,Female_Students_Ratio,Year
+0,Harvard University,545,3,42.374429,-71.118177,1,United States of America,99.7,72.4,98.7,98.8,34.5,96.1,20152.0,8.9,25.0,20,2011
+1,Harvard University,545,3,42.374429,-71.118177,2,United States of America,95.8,67.5,97.4,99.8,35.9,93.9,20152.0,8.9,25.0,,2012
+2,Harvard University,545,3,42.374429,-71.118177,4,United States of America,94.9,63.7,98.6,99.2,39.9,93.6,20152.0,8.9,25.0,,2013
+3,Harvard University,545,3,42.374429,-71.118177,2,United States of America,95.3,66.2,98.5,99.1,40.6,93.9,20152.0,8.9,25.0,,2014
+4,Harvard University,545,3,42.374429,-71.118177,2,United States of America,92.9,67.6,98.6,98.9,44,93.3,20152.0,8.9,25.0,,2015
+5,Harvard University,545,3,42.374429,-71.118177,6,United States of America,83.6,77.2,99.0,99.8,45.2,91.6,20152.0,8.9,25.0,,2016
+6,University of Arizona,35,3,32.232071,-110.950769,95,United States of America,52.4,21.9,52.2,70.1,84.2,57.3,36429.0,12.7,8.0,52,2011
+7,University of Arizona,35,3,32.232071,-110.950769,97,United States of America,45.1,28.4,43.0,78.3,86,54.2,36429.0,12.7,8.0,52,2012
+8,University of Arizona,35,3,32.232071,-110.950769,98,United States of America,47.0,31.3,53.7,76.9,83.9,57.7,36429.0,12.7,8.0,52,2013
+9,University of Arizona,35,3,32.232071,-110.950769,103,United States of America,39.4,38,44.4,74.6,82.3,52.4,36429.0,12.7,8.0,52,2014
+10,University of Arizona,35,3,32.232071,-110.950769,86,United States of America,44.9,38.8,51.4,74.0,99.6,56.5,36429.0,12.7,8.0,52,2015
+11,University of Arizona,35,3,32.232071,-110.950769,163,United States of America,38.7,38.6,41.8,79.5,32.4,51.7,36429.0,12.7,8.0,52,2016
+12,George Washington University,189,3,38.89865,-77.047871,95,United States of America,60.6,39.6,43.1,70.2,-,57.3,20541.0,12.0,16.0,56,2011
+13,George Washington University,189,3,38.89865,-77.047871,135,United States of America,44.2,38.3,33.6,73.2,-,49,20541.0,12.0,16.0,56,2012
+14,George Washington University,189,3,38.89865,-77.047871,168,United States of America,48.1,36.6,28.0,77.1,30,49.4,20541.0,12.0,16.0,56,2013
+15,George Washington University,189,3,38.89865,-77.047871,194,United States of America,45.6,36,26.3,65.9,30,44.8,20541.0,12.0,16.0,56,2014
+16,George Washington University,189,3,38.89865,-77.047871,200,United States of America,44.6,39.9,25.1,70.0,29.3,45.6,20541.0,12.0,16.0,56,2015
+17,George Washington University,189,3,38.89865,-77.047871,201-250,United States of America,44.7,48.1,23.5,65.7,29.5,-,20541.0,12.0,16.0,56,2016
+18,Wake Forest University,947,3,36.135301,-80.279004,90,United States of America,54.6,24.4,42.9,79.2,-,57.7,7326.0,4.6,5.0,51,2011
+19,Wake Forest University,947,3,36.135301,-80.279004,162,United States of America,36.4,17.2,21.6,86.1,49.1,45.8,7326.0,4.6,5.0,51,2012
+20,Wake Forest University,947,3,36.135301,-80.279004,190,United States of America,37.5,19,22.4,89.1,48,47.3,7326.0,4.6,5.0,51,2013
+21,Wake Forest University,947,3,36.135301,-80.279004,180,United States of America,36.1,23.7,21.8,85.1,38.8,45.7,7326.0,4.6,5.0,51,2014
+22,Wake Forest University,947,3,36.135301,-80.279004,201-225,United States of America,33.3,26,23.5,81.3,38.2,-,7326.0,4.6,5.0,51,2015
+23,Wake Forest University,947,3,36.135301,-80.279004,201-250,United States of America,34.6,24.2,19.5,94.8,42.5,-,7326.0,4.6,5.0,51,2016
+24,University of Utah,1337,3,40.762484,-111.846044,83,United States of America,55.8,22.5,54.2,72.0,-,59,25674.0,16.9,9.0,45,2011
+25,University of Utah,1337,3,40.762484,-111.846044,113,United States of America,42.1,23.3,41.0,82.3,-,51.9,25674.0,16.9,9.0,45,2012
+26,University of Utah,1337,3,40.762484,-111.846044,134,United States of America,43.3,25.2,41.3,81.0,63.3,53.2,25674.0,16.9,9.0,45,2013
+27,University of Utah,1337,3,40.762484,-111.846044,143,United States of America,39.4,25.5,36.1,76.6,61.3,49.1,25674.0,16.9,9.0,45,2014
+28,University of Utah,1337,3,40.762484,-111.846044,162,United States of America,38.8,27.5,36.5,75.0,58.1,48.6,25674.0,16.9,9.0,45,2015
+29,University of Utah,1337,3,40.762484,-111.846044,182,United States of America,35.6,30.1,35.3,83.7,57.4,50.1,25674.0,16.9,9.0,45,2016
+30,Stony Brook University,874,3,40.913138,-73.123595,78,United States of America,48.5,52.2,43.6,85.8,-,59.6,21908.0,10.9,24.0,50,2011
+31,Stony Brook University,874,3,40.913138,-73.123595,114,United States of America,37.7,56.5,28.7,88.3,29.2,51.4,21908.0,10.9,24.0,50,2012
+32,Stony Brook University,874,3,40.913138,-73.123595,162,United States of America,38.8,52.8,29.9,82.9,31.6,50.2,21908.0,10.9,24.0,50,2013
+33,Stony Brook University,874,3,40.913138,-73.123595,178,United States of America,32.5,57.8,22.9,80.3,32.3,45.8,21908.0,10.9,24.0,50,2014
+34,Stony Brook University,874,3,40.913138,-73.123595,188,United States of America,32.8,60.5,24.4,80.4,31.3,46.6,21908.0,10.9,24.0,50,2015
+35,Stony Brook University,874,3,40.913138,-73.123595,201-250,United States of America,32.6,53.2,22.0,83.0,33.4,-,21908.0,10.9,24.0,50,2016
+36,University of Southern California,138,3,34.021058,-118.283858,73,United States of America,65.4,31.2,48.7,71.9,-,60.7,36534.0,12.9,20.0,52,2011
+37,University of Southern California,138,3,34.021058,-118.283858,55,United States of America,65.8,41.1,48.7,80.2,99.3,64,36534.0,12.9,20.0,52,2012
+38,University of Southern California,138,3,34.021058,-118.283858,56,United States of America,68.4,43.4,57.1,81.9,33.5,66.3,36534.0,12.9,20.0,52,2013
+39,University of Southern California,138,3,34.021058,-118.283858,70,United States of America,58.7,43.4,43.2,81.2,34.6,59,36534.0,12.9,20.0,52,2014
+40,University of Southern California,138,3,34.021058,-118.283858,75,United States of America,55.2,42.7,44.6,81.3,34.4,58.4,36534.0,12.9,20.0,52,2015
+41,University of Southern California,138,3,34.021058,-118.283858,68,United States of America,49.3,56.3,58.9,93.0,38,65.5,36534.0,12.9,20.0,52,2016
+42,Rensselaer Polytechnic Institute,849,3,42.728983,-73.678768,104,United States of America,50.5,48,54.6,64.9,-,56.4,6671.0,15.0,16.0,30,2011
+43,Rensselaer Polytechnic Institute,849,3,42.728983,-73.678768,144,United States of America,31.7,32.7,40.4,73.6,49,47.4,6671.0,15.0,16.0,30,2012
+44,Rensselaer Polytechnic Institute,849,3,42.728983,-73.678768,174,United States of America,36.2,32.9,40.2,73.0,66.8,48.9,6671.0,15.0,16.0,30,2013
+45,Rensselaer Polytechnic Institute,849,3,42.728983,-73.678768,181,United States of America,30.7,35.6,35.5,71.5,65.6,45.6,6671.0,15.0,16.0,30,2014
+46,Rensselaer Polytechnic Institute,849,3,42.728983,-73.678768,226-250,United States of America,30.9,42.8,26.2,67.8,49.9,-,6671.0,15.0,16.0,30,2015
+47,Rensselaer Polytechnic Institute,849,3,42.728983,-73.678768,251-300,United States of America,30.4,40.3,31.5,65.1,79.6,-,6671.0,15.0,16.0,30,2016
+48,Yeshiva University,901,3,40.8508,-73.928541,68,United States of America,63.5,53.3,46.7,74.4,-,61.4,6753.0,5.5,7.0,53,2011
+49,Yeshiva University,901,3,40.8508,-73.928541,154,United States of America,43.6,26.4,27.0,75.3,-,46.2,6753.0,5.5,7.0,53,2012
+50,Yeshiva University,901,3,40.8508,-73.928541,156,United States of America,51.7,28.4,30.1,78.8,-,50.9,6753.0,5.5,7.0,53,2013
+51,Yeshiva University,901,3,40.8508,-73.928541,172,United States of America,47.3,25.6,20.6,77.5,-,46.1,6753.0,5.5,7.0,53,2014
+52,Yeshiva University,901,3,40.8508,-73.928541,186,United States of America,45.2,27.6,23.9,77.8,-,46.7,6753.0,5.5,7.0,53,2015
+53,Yeshiva University,901,3,40.8508,-73.928541,164,United States of America,44.8,28.5,23.7,92.8,-,51.2,6753.0,5.5,7.0,53,2016
+54,University of Colorado Boulder,146,3,40.004415,-105.267061,67,United States of America,46.4,31.7,58.1,83.4,-,61.6,29325.0,16.1,8.0,45,2011
+55,University of Colorado Boulder,146,3,40.004415,-105.267061,77,United States of America,39.5,30.8,42.6,98.2,-,57.3,29325.0,16.1,8.0,45,2012
+56,University of Colorado Boulder,146,3,40.004415,-105.267061,91,United States of America,42.3,34.7,44.4,97.1,-,58.7,29325.0,16.1,8.0,45,2013
+57,University of Colorado Boulder,146,3,40.004415,-105.267061,97,United States of America,34.2,40.5,33.3,97.3,-,53.4,29325.0,16.1,8.0,45,2014
+58,University of Colorado Boulder,146,3,40.004415,-105.267061,97,United States of America,35.0,39.1,38.3,97.4,-,55.1,29325.0,16.1,8.0,45,2015
+59,University of Colorado Boulder,146,3,40.004415,-105.267061,127,United States of America,39.7,36.6,37.6,96.4,35.7,55.8,29325.0,16.1,8.0,45,2016
+60,Case Western Reserve University,966,3,41.500812,-81.605769,65,United States of America,67.2,56.5,53.8,66.0,-,62.2,9259.0,6.4,17.0,48,2011
+61,Case Western Reserve University,966,3,41.500812,-81.605769,93,United States of America,54.2,29.9,40.2,78.4,-,54.6,9259.0,6.4,17.0,48,2012
+62,Case Western Reserve University,966,3,41.500812,-81.605769,104,United States of America,56.5,34.2,42.0,80.4,-,56.9,9259.0,6.4,17.0,48,2013
+63,Case Western Reserve University,966,3,41.500812,-81.605769,88,United States of America,51.0,35.4,38.6,82.8,-,55,9259.0,6.4,17.0,48,2014
+64,Case Western Reserve University,966,3,41.500812,-81.605769,116,United States of America,46.5,34.4,37.4,82.9,-,53.2,9259.0,6.4,17.0,48,2015
+65,Case Western Reserve University,966,3,41.500812,-81.605769,133,United States of America,46.1,40.5,33.2,92.0,34.1,55.3,9259.0,6.4,17.0,48,2016
+66,Dartmouth College,735,3,43.70408,-72.289951,99,United States of America,44.7,31,49.2,79.7,-,57.1,6178.0,6.6,16.0,47,2011
+67,Dartmouth College,735,3,43.70408,-72.289951,90,United States of America,44.8,30.6,38.7,89.9,-,54.9,6178.0,6.6,16.0,47,2012
+68,Dartmouth College,735,3,43.70408,-72.289951,124,United States of America,47.5,31.5,35.9,87.0,38.6,54.4,6178.0,6.6,16.0,47,2013
+69,Dartmouth College,735,3,43.70408,-72.289951,126,United States of America,38.5,32.7,34.5,83.6,42.3,50.5,6178.0,6.6,16.0,47,2014
+70,Dartmouth College,735,3,43.70408,-72.289951,152,United States of America,38.3,33.1,35.4,80.4,49.1,50,6178.0,6.6,16.0,47,2015
+71,Dartmouth College,735,3,43.70408,-72.289951,104,United States of America,50.7,38.3,35.8,93.3,40.8,57.8,6178.0,6.6,16.0,47,2016
+72,Emory University,245,3,33.798836,-84.325782,61,United States of America,63.4,52.3,48.4,77.8,-,63,12338.0,4.5,18.0,56,2011
+73,Emory University,245,3,33.798836,-84.325782,75,United States of America,48.4,37.3,39.8,90.9,34.4,57.4,12338.0,4.5,18.0,56,2012
+74,Emory University,245,3,33.798836,-84.325782,79,United States of America,56.7,36.6,44.4,90.9,38.3,61.3,12338.0,4.5,18.0,56,2013
+75,Emory University,245,3,33.798836,-84.325782,80,United States of America,50.4,42.4,31.6,90.8,43.2,56.1,12338.0,4.5,18.0,56,2014
+76,Emory University,245,3,33.798836,-84.325782,93,United States of America,49.0,42.9,32.4,89.5,42.3,55.5,12338.0,4.5,18.0,56,2015
+77,Emory University,245,3,33.798836,-84.325782,90,United States of America,48.3,51,37.1,96.7,48.9,59.7,12338.0,4.5,18.0,56,2016
+78,California Institute of Technology,65,3,34.139275,-118.12574,2,United States of America,97.7,54.6,98.0,99.9,83.7,96,2243.0,6.9,27.0,33,2011
+79,California Institute of Technology,65,3,34.139275,-118.12574,1,United States of America,95.7,56,98.2,99.9,97,94.8,2243.0,6.9,27.0,33,2012
+80,California Institute of Technology,65,3,34.139275,-118.12574,1,United States of America,96.3,59.8,99.4,99.7,95.6,95.5,2243.0,6.9,27.0,33,2013
+81,California Institute of Technology,65,3,34.139275,-118.12574,1,United States of America,94.4,65.8,98.2,99.8,91.2,94.9,2243.0,6.9,27.0,33,2014
+82,California Institute of Technology,65,3,34.139275,-118.12574,1,United States of America,92.2,67,98.1,99.7,89.1,94.3,2243.0,6.9,27.0,33,2015
+83,California Institute of Technology,65,3,34.139275,-118.12574,1,United States of America,95.6,64,97.6,99.8,97.8,95.2,2243.0,6.9,27.0,33,2016
+84,University of Illinois at Chicago,300,3,41.872651,-87.651145,197,United States of America,57.8,51.8,46.8,34.7,-,46.4,24313.0,9.2,17.0,53,2011
+85,University of Illinois at Chicago,300,3,41.872651,-87.651145,167,United States of America,53.3,27.2,43.9,43.3,38.6,45.2,24313.0,9.2,17.0,53,2012
+86,University of Illinois at Chicago,300,3,41.872651,-87.651145,184,United States of America,53.9,29.1,42.6,52.9,40.4,48,24313.0,9.2,17.0,53,2013
+87,University of Illinois at Chicago,300,3,41.872651,-87.651145,191,United States of America,45.5,43.3,34.9,56.2,31.1,45,24313.0,9.2,17.0,53,2014
+88,University of Illinois at Chicago,300,3,41.872651,-87.651145,201-225,United States of America,43.0,53.4,34.1,55.1,40.7,-,24313.0,9.2,17.0,53,2015
+89,University of Illinois at Chicago,300,3,41.872651,-87.651145,201-250,United States of America,40.9,58.1,29.2,63.2,38,-,24313.0,9.2,17.0,53,2016
+90,Drexel University,1081,3,39.954855,-75.188745,190,United States of America,45.0,60.6,35.9,58.2,27.4,46.9,20713.0,10.8,18.0,48,2011
+91,Drexel University,1081,3,39.954855,-75.188745,226-250,United States of America,36.9,37.8,12.2,59.4,29.9,-,20713.0,10.8,18.0,48,2012
+92,Drexel University,1081,3,39.954855,-75.188745,276-300,United States of America,34.7,36.6,14.9,65.1,34.7,-,20713.0,10.8,18.0,48,2013
+93,Drexel University,1081,3,39.954855,-75.188745,301-350,United States of America,33.9,38.2,15.0,56.2,32.5,-,20713.0,10.8,18.0,48,2014
+94,Drexel University,1081,3,39.954855,-75.188745,301-350,United States of America,31.8,42.2,14.3,57.5,34.6,-,20713.0,10.8,18.0,48,2015
+95,Drexel University,1081,3,39.954855,-75.188745,351-400,United States of America,31.2,46.3,14.6,57.7,36.3,-,20713.0,10.8,18.0,48,2016
+96,Georgetown University,190,3,38.908809,-77.073463,164,United States of America,65.1,24.7,44.7,45.0,-,50.1,15408.0,8.5,14.0,53,2011
+97,Georgetown University,190,3,38.908809,-77.073463,138,United States of America,52.5,29.1,40.4,57.7,-,48,15408.0,8.5,14.0,53,2012
+98,Georgetown University,190,3,38.908809,-77.073463,174,United States of America,56.4,32.9,35.6,59.8,-,48.9,15408.0,8.5,14.0,53,2013
+99,Georgetown University,190,3,38.908809,-77.073463,160,United States of America,51.9,43.6,25.6,62.3,71.9,47,15408.0,8.5,14.0,53,2014
+100,Georgetown University,190,3,38.908809,-77.073463,173,United States of America,51.1,43.3,28.2,62.2,80,47.7,15408.0,8.5,14.0,53,2015
+101,Georgetown University,190,3,38.908809,-77.073463,94,United States of America,54.4,52.7,39.3,82.5,80.7,58.8,15408.0,8.5,14.0,53,2016
+102,Boston College,529,3,42.337688,-71.171488,161,United States of America,40.1,31.6,33.6,78.0,-,50.3,13216.0,17.4,19.0,54,2011
+103,Boston College,529,3,42.337688,-71.171488,195,United States of America,26.5,41.4,18.9,83.5,24.2,42.4,13216.0,17.4,19.0,54,2012
+104,Boston College,529,3,42.337688,-71.171488,150,United States of America,34.5,52.4,33.2,88.7,-,51.6,13216.0,17.4,19.0,54,2013
+105,Boston College,529,3,42.337688,-71.171488,135,United States of America,26.3,54.4,26.4,96.2,49.4,50,13216.0,17.4,19.0,54,2014
+106,Boston College,529,3,42.337688,-71.171488,126,United States of America,32.4,54.6,29.1,95.9,46.5,52.5,13216.0,17.4,19.0,54,2015
+107,Boston College,529,3,42.337688,-71.171488,190,United States of America,34.1,60,29.3,83.3,46.8,49.6,13216.0,17.4,19.0,54,2016
+108,University of Delaware,182,3,39.679791,-75.7536,159,United States of America,38.4,16.8,51.9,61.3,100,50.4,19262.0,15.9,10.0,56,2011
+109,University of Delaware,182,3,39.679791,-75.7536,180,United States of America,26.4,29.8,37.2,66.7,98,43.8,19262.0,15.9,10.0,56,2012
+110,University of Delaware,182,3,39.679791,-75.7536,165,United States of America,30.0,37.3,41.6,76.6,97.7,49.7,19262.0,15.9,10.0,56,2013
+111,University of Delaware,182,3,39.679791,-75.7536,174,United States of America,27.0,37.1,35.5,73.6,98.1,46,19262.0,15.9,10.0,56,2014
+112,University of Delaware,182,3,39.679791,-75.7536,180,United States of America,29.0,40.6,36.3,73.1,99.3,47,19262.0,15.9,10.0,56,2015
+113,University of Delaware,182,3,39.679791,-75.7536,251-300,United States of America,23.7,41.6,34.0,70.0,98.7,-,19262.0,15.9,10.0,56,2016
+114,Iowa State University,392,3,42.026368,-93.648353,156,United States of America,49.3,23.2,49.6,58.2,49.6,51,29991.0,17.4,11.0,44,2011
+115,Iowa State University,392,3,42.026368,-93.648353,184,United States of America,32.8,28.3,30.1,70.4,49.2,43.4,29991.0,17.4,11.0,44,2012
+116,Iowa State University,392,3,42.026368,-93.648353,193,United States of America,35.7,30.5,34.3,74.9,44,46.9,29991.0,17.4,11.0,44,2013
+117,Iowa State University,392,3,42.026368,-93.648353,183,United States of America,35.6,38.8,32.4,71.5,28.2,45.5,29991.0,17.4,11.0,44,2014
+118,Iowa State University,392,3,42.026368,-93.648353,193,United States of America,36.4,40.6,30.9,72.0,54.4,46.2,29991.0,17.4,11.0,44,2015
+119,Iowa State University,392,3,42.026368,-93.648353,251-300,United States of America,31.2,35.4,29.4,61.5,54,-,29991.0,17.4,11.0,44,2016
+120,University of Iowa,394,3,41.660695,-91.535698,132,United States of America,48.6,31.7,59.8,54.8,-,53.3,27526.0,11.6,11.0,52,2011
+121,University of Iowa,394,3,41.660695,-91.535698,141,United States of America,47.7,21.9,42.1,61.3,-,47.6,27526.0,11.6,11.0,52,2012
+122,University of Iowa,394,3,41.660695,-91.535698,169,United States of America,49.0,26.4,40.9,65.7,-,49.3,27526.0,11.6,11.0,52,2013
+123,University of Iowa,394,3,41.660695,-91.535698,161,United States of America,44.2,29.3,31.6,70.4,-,46.7,27526.0,11.6,11.0,52,2014
+124,University of Iowa,394,3,41.660695,-91.535698,175,United States of America,41.9,31.7,33.5,71.0,49.3,47.5,27526.0,11.6,11.0,52,2015
+125,University of Iowa,394,3,41.660695,-91.535698,201-250,United States of America,41.0,32.3,26.7,73.5,54.1,-,27526.0,11.6,11.0,52,2016
+126,Michigan State University,607,3,42.72476,-84.473639,122,United States of America,50.4,30.4,52.7,63.7,-,54.5,44750.0,15.7,15.0,51,2011
+127,Michigan State University,607,3,42.72476,-84.473639,96,United States of America,47.4,34,49.6,73.6,28,54.4,44750.0,15.7,15.0,51,2012
+128,Michigan State University,607,3,42.72476,-84.473639,94,United States of America,51.8,36.8,56.8,73.8,32.6,58.3,44750.0,15.7,15.0,51,2013
+129,Michigan State University,607,3,42.72476,-84.473639,83,United States of America,50.0,52.6,49.1,71.5,32,55.9,44750.0,15.7,15.0,51,2014
+130,Michigan State University,607,3,42.72476,-84.473639,82,United States of America,51.1,55,49.4,74.0,31.7,57.3,44750.0,15.7,15.0,51,2015
+131,Michigan State University,607,3,42.72476,-84.473639,99,United States of America,47.3,56.4,52.6,76.8,32.2,58,44750.0,15.7,15.0,51,2016
+132,University of Notre Dame,368,3,41.703058,-86.238959,63,United States of America,56.4,35.6,45.1,89.1,-,62.8,11829.0,13.8,10.0,44,2011
+133,University of Notre Dame,368,3,41.703058,-86.238959,89,United States of America,42.6,33.1,36.2,94.1,27.3,55,11829.0,13.8,10.0,44,2012
+134,University of Notre Dame,368,3,41.703058,-86.238959,94,United States of America,48.3,41.6,39.6,93.5,29.8,58.3,11829.0,13.8,10.0,44,2013
+135,University of Notre Dame,368,3,41.703058,-86.238959,90,United States of America,41.2,47.5,34.7,91.8,31.2,54.7,11829.0,13.8,10.0,44,2014
+136,University of Notre Dame,368,3,41.703058,-86.238959,86,United States of America,43.3,51.4,38.5,90.0,-,56.5,11829.0,13.8,10.0,44,2015
+137,University of Notre Dame,368,3,41.703058,-86.238959,108,United States of America,47.6,47.6,48.1,81.7,33.7,57.6,11829.0,13.8,10.0,44,2016
+138,New York University,842,3,40.729452,-73.997264,60,United States of America,62.0,31.8,50.7,82.9,-,63.9,42056.0,6.8,19.0,55,2011
+139,New York University,842,3,40.729452,-73.997264,44,United States of America,60.2,38.1,65.4,92.3,30.9,69,42056.0,6.8,19.0,55,2012
+140,New York University,842,3,40.729452,-73.997264,41,United States of America,73.8,38.7,67.4,89.2,29.5,72.8,42056.0,6.8,19.0,55,2013
+141,New York University,842,3,40.729452,-73.997264,40,United States of America,65.4,41.8,58.4,87.9,29.9,67.4,42056.0,6.8,19.0,55,2014
+142,New York University,842,3,40.729452,-73.997264,38,United States of America,68.3,41.2,62.4,89.5,30.2,69.9,42056.0,6.8,19.0,55,2015
+143,New York University,842,3,40.729452,-73.997264,30,United States of America,74.7,49.3,72.3,95.3,30.4,77.2,42056.0,6.8,19.0,55,2016
+144,Johns Hopkins University,504,3,39.32838,-76.620799,13,United States of America,80.9,58.5,89.2,92.3,100,86.4,15128.0,3.6,23.0,50,2011
+145,Johns Hopkins University,504,3,39.32838,-76.620799,14,United States of America,78.9,59.9,86.5,97.3,100,85.8,15128.0,3.6,23.0,50,2012
+146,Johns Hopkins University,504,3,39.32838,-76.620799,16,United States of America,81.8,57.3,85.5,95.3,100,85.6,15128.0,3.6,23.0,50,2013
+147,Johns Hopkins University,504,3,39.32838,-76.620799,15,United States of America,75.7,59.3,85.1,95.0,100,83.7,15128.0,3.6,23.0,50,2014
+148,Johns Hopkins University,504,3,39.32838,-76.620799,15,United States of America,75.6,59.7,84.2,93.6,100,83,15128.0,3.6,23.0,50,2015
+149,Johns Hopkins University,504,3,39.32838,-76.620799,11,United States of America,77.6,70,90.4,98.2,100,87.6,15128.0,3.6,23.0,50,2016
+150,Carnegie Mellon University,1073,3,40.444616,-79.942914,20,United States of America,70.3,39.1,79.3,95.7,53.7,79.3,11885.0,13.1,35.0,39,2011
+151,Carnegie Mellon University,1073,3,40.444616,-79.942914,21,United States of America,65.7,55,79.5,97.4,60.7,78.4,11885.0,13.1,35.0,39,2012
+152,Carnegie Mellon University,1073,3,40.444616,-79.942914,22,United States of America,71.8,51.4,87.0,95.5,55.9,81.5,11885.0,13.1,35.0,39,2013
+153,Carnegie Mellon University,1073,3,40.444616,-79.942914,24,United States of America,63.1,58.1,77.4,93.9,52.5,76,11885.0,13.1,35.0,39,2014
+154,Carnegie Mellon University,1073,3,40.444616,-79.942914,24,United States of America,61.6,59.3,74.9,92.0,53,74.3,11885.0,13.1,35.0,39,2015
+155,Carnegie Mellon University,1073,3,40.444616,-79.942914,22,United States of America,67.4,57.1,88.8,99.1,57.5,82.3,11885.0,13.1,35.0,39,2016
+156,Boston University,530,3,42.349581,-71.09984,59,United States of America,53.6,38.1,51.9,91.4,29.6,64,24789.0,8.6,17.0,58,2011
+157,Boston University,530,3,42.349581,-71.09984,54,United States of America,60.7,37.2,46.2,95.6,27.6,64.2,24789.0,8.6,17.0,58,2012
+158,Boston University,530,3,42.349581,-71.09984,54,United States of America,65.4,39.2,50.9,94.2,30.6,66.8,24789.0,8.6,17.0,58,2013
+159,Boston University,530,3,42.349581,-71.09984,50,United States of America,56.5,44.2,46.1,95.3,31.1,63.5,24789.0,8.6,17.0,58,2014
+160,Boston University,530,3,42.349581,-71.09984,57,United States of America,56.4,47.8,46.7,94.4,30.3,63.6,24789.0,8.6,17.0,58,2015
+161,Boston University,530,3,42.349581,-71.09984,64,United States of America,57.8,51,49.5,97.7,30.3,66.1,24789.0,8.6,17.0,58,2016
+162,Cornell University,797,3,42.445291,-76.48269,14,United States of America,82.2,62.4,88.8,88.1,34.7,83.9,21424.0,10.2,19.0,48,2011
+163,Cornell University,797,3,42.445291,-76.48269,20,United States of America,70.4,53.4,87.2,93.5,-,80.5,21424.0,10.2,19.0,48,2012
+164,Cornell University,797,3,42.445291,-76.48269,18,United States of America,77.0,53.8,92.1,91.8,39.5,83.3,21424.0,10.2,19.0,48,2013
+165,Cornell University,797,3,42.445291,-76.48269,19,United States of America,72.1,55.6,83.8,90.8,35.8,79.1,21424.0,10.2,19.0,48,2014
+166,Cornell University,797,3,42.445291,-76.48269,19,United States of America,71.6,59,83.8,91.5,33.7,79.4,21424.0,10.2,19.0,48,2015
+167,Cornell University,797,3,42.445291,-76.48269,18,United States of America,77.9,63.9,86.1,97.2,33.7,84,21424.0,10.2,19.0,48,2016
+168,University of Chicago,290,3,41.78917,-87.601196,12,United States of America,79.1,62.8,87.9,96.9,-,86.9,14221.0,6.9,21.0,42,2011
+169,University of Chicago,290,3,41.78917,-87.601196,9,United States of America,89.4,58.8,90.8,99.4,-,90.2,14221.0,6.9,21.0,42,2012
+170,University of Chicago,290,3,41.78917,-87.601196,10,United States of America,89.6,55.3,92.9,98.7,-,90.4,14221.0,6.9,21.0,42,2013
+171,University of Chicago,290,3,41.78917,-87.601196,9,United States of America,85.6,58.6,88.2,98.0,-,87.8,14221.0,6.9,21.0,42,2014
+172,University of Chicago,290,3,41.78917,-87.601196,11,United States of America,83.9,65.2,89.9,97.3,36.8,87.1,14221.0,6.9,21.0,42,2015
+173,University of Chicago,290,3,41.78917,-87.601196,10,United States of America,85.7,65,88.9,99.2,36.6,87.9,14221.0,6.9,21.0,42,2016
+174,Northwestern University,321,3,42.058377,-87.673653,25,United States of America,64.5,60.5,68.8,95.3,-,75.9,18334.0,13.8,15.0,48,2011
+175,Northwestern University,321,3,42.058377,-87.673653,26,United States of America,66.3,35.3,75.5,98.6,56.6,76.2,18334.0,13.8,15.0,48,2012
+176,Northwestern University,321,3,42.058377,-87.673653,19,United States of America,77.6,33.8,87.3,98.2,64.4,83.1,18334.0,13.8,15.0,48,2013
+177,Northwestern University,321,3,42.058377,-87.673653,22,United States of America,70.2,34.4,76.0,97.1,61.9,77.1,18334.0,13.8,15.0,48,2014
+178,Northwestern University,321,3,42.058377,-87.673653,21,United States of America,72.7,36.7,78.9,96.9,77,79.2,18334.0,13.8,15.0,48,2015
+179,Northwestern University,321,3,42.058377,-87.673653,25,United States of America,69.8,53.9,78.4,96.5,81.2,79.5,18334.0,13.8,15.0,48,2016
+180,Yale University,180,3,41.311158,-72.926688,10,United States of America,92.1,59.2,89.7,91.5,-,89.5,11751.0,4.4,20.0,50,2011
+181,Yale University,180,3,41.311158,-72.926688,11,United States of America,92.3,55.5,91.2,96.7,34.7,89.1,11751.0,4.4,20.0,50,2012
+182,Yale University,180,3,41.311158,-72.926688,11,United States of America,93.2,54.7,92.5,94.8,38.2,89.2,11751.0,4.4,20.0,50,2013
+183,Yale University,180,3,41.311158,-72.926688,11,United States of America,89.5,57.6,90.5,93.5,38.7,87.4,11751.0,4.4,20.0,50,2014
+184,Yale University,180,3,41.311158,-72.926688,9,United States of America,88.5,59.8,90.8,94.0,42,87.5,11751.0,4.4,20.0,50,2015
+185,Yale University,180,3,41.311158,-72.926688,12,United States of America,86.5,64.3,87.8,97.2,43.3,87.4,11751.0,4.4,20.0,50,2016
+186,Princeton University,761,3,40.348496,-74.663708,5,United States of America,90.9,70.3,95.4,99.9,-,94.2,7929.0,8.4,27.0,45,2011
+187,Princeton University,761,3,40.348496,-74.663708,5,United States of America,91.5,49.6,99.1,100.0,81,92.9,7929.0,8.4,27.0,45,2012
+188,Princeton University,761,3,40.348496,-74.663708,6,United States of America,89.5,54.5,99.4,99.8,79.5,92.7,7929.0,8.4,27.0,45,2013
+189,Princeton University,761,3,40.348496,-74.663708,6,United States of America,89.9,59.6,97.6,99.7,80.5,92.7,7929.0,8.4,27.0,45,2014
+190,Princeton University,761,3,40.348496,-74.663708,7,United States of America,86.6,61.2,94.7,99.6,82.7,90.9,7929.0,8.4,27.0,45,2015
+191,Princeton University,761,3,40.348496,-74.663708,7,United States of America,85.1,78.5,91.9,99.3,52.1,90.1,7929.0,8.4,27.0,45,2016
+192,Stanford University,1470,3,37.431746,-122.182212,4,United States of America,98.3,29.5,98.1,99.2,64.3,94.3,15596.0,7.8,22.0,42,2011
+193,Stanford University,1470,3,37.431746,-122.182212,2,United States of America,94.8,57.2,98.9,99.8,63.8,93.9,15596.0,7.8,22.0,42,2012
+194,Stanford University,1470,3,37.431746,-122.182212,2,United States of America,95.0,56.6,98.8,99.3,62.4,93.7,15596.0,7.8,22.0,42,2013
+195,Stanford University,1470,3,37.431746,-122.182212,4,United States of America,94.7,68,96.8,99.1,61.3,93.8,15596.0,7.8,22.0,42,2014
+196,Stanford University,1470,3,37.431746,-122.182212,4,United States of America,91.5,69,96.7,99.1,63.1,92.9,15596.0,7.8,22.0,42,2015
+197,Stanford University,1470,3,37.431746,-122.182212,3,United States of America,92.5,76.3,96.2,99.9,63.3,93.9,15596.0,7.8,22.0,42,2016
+198,Massachusetts Institute of Technology,552,3,42.360095,-71.092115,3,United States of America,97.8,82.3,91.4,99.9,87.5,95.6,11074.0,9.0,33.0,37,2011
+199,Massachusetts Institute of Technology,552,3,42.360095,-71.092115,7,United States of America,92.7,79.2,87.4,100.0,94.4,92.3,11074.0,9.0,33.0,37,2012
+200,Massachusetts Institute of Technology,552,3,42.360095,-71.092115,5,United States of America,92.9,81.6,89.2,99.9,92.9,93.1,11074.0,9.0,33.0,37,2013
+201,Massachusetts Institute of Technology,552,3,42.360095,-71.092115,5,United States of America,92.9,82,89.0,100.0,94.3,93,11074.0,9.0,33.0,37,2014
+202,Massachusetts Institute of Technology,552,3,42.360095,-71.092115,6,United States of America,89.1,84.3,88.2,100.0,95.7,91.9,11074.0,9.0,33.0,37,2015
+203,Massachusetts Institute of Technology,552,3,42.360095,-71.092115,5,United States of America,89.4,84,88.6,99.7,95.4,92,11074.0,9.0,33.0,37,2016
+204,Duke University,911,3,36.00159,-78.94226,24,United States of America,66.8,49.4,71.5,92.3,100,76.5,15172.0,4.8,17.0,49,2011
+205,Duke University,911,3,36.00159,-78.94226,22,United States of America,62.6,46.9,77.9,97.4,100,77.4,15172.0,4.8,17.0,49,2012
+206,Duke University,911,3,36.00159,-78.94226,23,United States of America,72.3,45.8,81.5,97.0,100,81.2,15172.0,4.8,17.0,49,2013
+207,Duke University,911,3,36.00159,-78.94226,17,United States of America,73.9,50,73.0,96.7,100,79.3,15172.0,4.8,17.0,49,2014
+208,Duke University,911,3,36.00159,-78.94226,18,United States of America,73.5,50.5,75.2,96.6,100,79.9,15172.0,4.8,17.0,49,2015
+209,Duke University,911,3,36.00159,-78.94226,20,United States of America,76.0,56.5,78.0,99.0,100,82.7,15172.0,4.8,17.0,49,2016
+210,University of Pennsylvania,1141,3,39.951002,-75.193618,19,United States of America,71.8,32.9,82.7,93.6,43.7,79.5,20376.0,6.5,20.0,51,2011
+211,University of Pennsylvania,1141,3,39.951002,-75.193618,16,United States of America,87.0,34.3,86.1,97.9,41.9,84.9,20376.0,6.5,20.0,51,2012
+212,University of Pennsylvania,1141,3,39.951002,-75.193618,15,United States of America,90.0,38.1,89.4,96.2,43.7,86.6,20376.0,6.5,20.0,51,2013
+213,University of Pennsylvania,1141,3,39.951002,-75.193618,16,United States of America,79.8,40.6,81.2,95.0,45.2,81,20376.0,6.5,20.0,51,2014
+214,University of Pennsylvania,1141,3,39.951002,-75.193618,16,United States of America,79.0,43.8,82.0,94.4,43,81,20376.0,6.5,20.0,51,2015
+215,University of Pennsylvania,1141,3,39.951002,-75.193618,17,United States of America,82.0,49.5,86.9,98.6,47.9,85.2,20376.0,6.5,20.0,51,2016
+216,Rice University,1293,3,29.716485,-95.403625,47,United States of America,57.4,31.2,50.6,99.1,29.2,66.9,6333.0,9.0,26.0,44,2011
+217,Rice University,1293,3,29.716485,-95.403625,72,United States of America,45.9,39.7,38.0,99.9,36.2,59,6333.0,9.0,26.0,44,2012
+218,Rice University,1293,3,29.716485,-95.403625,75,United States of America,49.5,59,39.3,100.0,36.5,62,6333.0,9.0,26.0,44,2013
+219,Rice University,1293,3,29.716485,-95.403625,65,United States of America,44.1,67.7,35.5,99.9,35.2,59.8,6333.0,9.0,26.0,44,2014
+220,Rice University,1293,3,29.716485,-95.403625,69,United States of America,41.7,70.8,37.1,99.9,34.6,59.8,6333.0,9.0,26.0,44,2015
+221,Rice University,1293,3,29.716485,-95.403625,101,United States of America,37.9,66.6,35.1,99.7,41.7,57.9,6333.0,9.0,26.0,44,2016
+222,Brown University,1173,3,41.827605,-71.404467,55,United States of America,59.7,60.5,57.0,77.7,-,64.9,8653.0,10.1,19.0,,2011
+223,Brown University,1173,3,41.827605,-71.404467,49,United States of America,59.8,33.4,53.6,93.9,34.9,65.6,8653.0,10.1,19.0,,2012
+224,Brown University,1173,3,41.827605,-71.404467,51,United States of America,63.7,36.9,60.3,94.1,29.9,68.9,8653.0,10.1,19.0,,2013
+225,Brown University,1173,3,41.827605,-71.404467,52,United States of America,55.4,37.7,52.0,91.3,33.5,63.2,8653.0,10.1,19.0,,2014
+226,Brown University,1173,3,41.827605,-71.404467,54,United States of America,55.5,37,54.2,92.0,32.7,64.1,8653.0,10.1,19.0,,2015
+227,Brown University,1173,3,41.827605,-71.404467,51,United States of America,62.8,57.8,55.7,96.4,31.4,69.6,8653.0,10.1,19.0,,2016
+228,Tufts University,571,3,42.406004,-71.120641,53,United States of America,64.1,28.3,52.3,83.9,-,65.2,10410.0,10.0,14.0,54,2011
+229,Tufts University,571,3,42.406004,-71.120641,77,United States of America,45.8,41.3,37.4,94.5,35.4,57.3,10410.0,10.0,14.0,54,2012
+230,Tufts University,571,3,42.406004,-71.120641,87,United States of America,52.6,39.6,36.4,94.8,39.4,59.1,10410.0,10.0,14.0,54,2013
+231,Tufts University,571,3,42.406004,-71.120641,80,United States of America,46.7,43.4,32.1,93.9,39.1,56.1,10410.0,10.0,14.0,54,2014
+232,Tufts University,571,3,42.406004,-71.120641,88,United States of America,43.6,51.1,33.9,92.9,58.7,56.4,10410.0,10.0,14.0,54,2015
+233,Tufts University,571,3,42.406004,-71.120641,127,United States of America,45.2,49.4,33.3,90.1,60.7,55.8,10410.0,10.0,14.0,54,2016
+234,Vanderbilt University,1258,3,36.14443,-86.804875,51,United States of America,64.9,22.1,59.5,78.1,84.2,65.9,12161.0,3.6,10.0,52,2011
+235,Vanderbilt University,1258,3,36.14443,-86.804875,70,United States of America,52.1,26.8,47.6,86.8,64.4,59.6,12161.0,3.6,10.0,52,2012
+236,Vanderbilt University,1258,3,36.14443,-86.804875,106,United States of America,51.5,27.5,40.9,85.0,53,56.6,12161.0,3.6,10.0,52,2013
+237,Vanderbilt University,1258,3,36.14443,-86.804875,88,United States of America,46.8,28.6,38.7,86.5,51,55,12161.0,3.6,10.0,52,2014
+238,Vanderbilt University,1258,3,36.14443,-86.804875,96,United States of America,46.0,28.3,38.2,87.7,59.4,55.2,12161.0,3.6,10.0,52,2015
+239,Vanderbilt University,1258,3,36.14443,-86.804875,87,United States of America,47.8,29.1,44.2,95.7,63.2,60.1,12161.0,3.6,10.0,52,2016
+240,Washington University in St Louis,699,3,38.648125,-90.311639,38,United States of America,58.9,56.4,63.0,88.6,-,69.9,12528.0,5.7,17.0,,2011
+241,Washington University in St Louis,699,3,38.648125,-90.311639,41,United States of America,64.0,45.7,58.9,96.1,-,70.5,12528.0,5.7,17.0,,2012
+242,Washington University in St Louis,699,3,38.648125,-90.311639,44,United States of America,66.0,44.3,62.8,95.2,-,71.8,12528.0,5.7,17.0,,2013
+243,Washington University in St Louis,699,3,38.648125,-90.311639,42,United States of America,59.5,44.6,52.9,96.4,-,67.2,12528.0,5.7,17.0,,2014
+244,Washington University in St Louis,699,3,38.648125,-90.311639,42,United States of America,57.6,46.5,55.2,97.1,-,67.8,12528.0,5.7,17.0,,2015
+245,Washington University in St Louis,699,3,38.648125,-90.311639,60,United States of America,54.3,44.9,55.6,99.2,33.5,67,12528.0,5.7,17.0,,2016
+246,University of Illinois at Urbana-Champaign,302,3,40.108864,-88.230309,33,United States of America,68.1,55.9,80.9,72.9,-,73,42727.0,18.7,20.0,47,2011
+247,University of Illinois at Urbana-Champaign,302,3,40.108864,-88.230309,31,United States of America,67.9,50.7,81.3,81.5,-,74.2,42727.0,18.7,20.0,47,2012
+248,University of Illinois at Urbana-Champaign,302,3,40.108864,-88.230309,33,United States of America,74.2,36,84.9,80.8,-,75.8,42727.0,18.7,20.0,47,2013
+249,University of Illinois at Urbana-Champaign,302,3,40.108864,-88.230309,29,United States of America,66.0,41.1,78.9,79.4,-,71.4,42727.0,18.7,20.0,47,2014
+250,University of Illinois at Urbana-Champaign,302,3,40.108864,-88.230309,29,United States of America,67.7,43.9,79.0,77.8,51.7,71.9,42727.0,18.7,20.0,47,2015
+251,University of Illinois at Urbana-Champaign,302,3,40.108864,-88.230309,36,United States of America,64.5,45.8,81.2,86.8,52.8,74.5,42727.0,18.7,20.0,47,2016
+252,University of North Carolina at Chapel Hill,931,3,35.912165,-79.050969,30,United States of America,70.9,21.5,75.1,85.0,50.2,73.8,26518.0,7.3,8.0,58,2011
+253,University of North Carolina at Chapel Hill,931,3,35.912165,-79.050969,43,United States of America,67.6,20.2,62.6,92.6,35.5,69.3,26518.0,7.3,8.0,58,2012
+254,University of North Carolina at Chapel Hill,931,3,35.912165,-79.050969,42,United States of America,70.4,32.9,69.3,90.1,40,72.4,26518.0,7.3,8.0,58,2013
+255,University of North Carolina at Chapel Hill,931,3,35.912165,-79.050969,47,United States of America,57.6,35,55.3,90.2,39.1,64.5,26518.0,7.3,8.0,58,2014
+256,University of North Carolina at Chapel Hill,931,3,35.912165,-79.050969,46,United States of America,57.9,35.3,58.6,91.0,40.5,65.9,26518.0,7.3,8.0,58,2015
+257,University of North Carolina at Chapel Hill,931,3,35.912165,-79.050969,63,United States of America,58.0,39,54.5,95.9,39.4,66.4,26518.0,7.3,8.0,58,2016
+258,Virginia Polytechnic Institute and State University,1390,3,37.228561,-80.423267,251-275,United States of America,36.9,25.1,40.4,30.3,24.2,-,30850.0,18.6,10.0,42,2012
+259,Virginia Polytechnic Institute and State University,1390,3,37.228561,-80.423267,276-300,United States of America,38.5,27.8,44.4,37.2,27.9,-,30850.0,18.6,10.0,42,2013
+260,Virginia Polytechnic Institute and State University,1390,3,37.228561,-80.423267,276-300,United States of America,33.7,27.5,40.4,38.7,42,-,30850.0,18.6,10.0,42,2014
+261,Virginia Polytechnic Institute and State University,1390,3,37.228561,-80.423267,276-300,United States of America,40.1,28.9,40.0,40.7,42.6,-,30850.0,18.6,10.0,42,2015
+262,Virginia Polytechnic Institute and State University,1390,3,37.228561,-80.423267,251-300,United States of America,34.9,29.5,38.2,54.2,43.3,-,30850.0,18.6,10.0,42,2016
+263,University at Buffalo,873,3,43.001433,-78.790103,201-225,United States of America,44.3,49.2,35.6,42.0,40.9,-,25668.0,19.0,19.0,47,2012
+264,University at Buffalo,873,3,43.001433,-78.790103,198,United States of America,46.3,50.7,40.6,52.1,42.4,46.6,25668.0,19.0,19.0,47,2013
+265,University at Buffalo,873,3,43.001433,-78.790103,176,United States of America,40.2,55.4,39.3,56.2,39.4,45.9,25668.0,19.0,19.0,47,2014
+266,University at Buffalo,873,3,43.001433,-78.790103,191,United States of America,40.1,57,39.8,57.5,39.6,46.5,25668.0,19.0,19.0,47,2015
+267,University at Buffalo,873,3,43.001433,-78.790103,201-250,United States of America,36.5,60.6,37.9,62.0,43.8,-,25668.0,19.0,19.0,47,2016
+268,Wayne State University,620,3,42.35861,-83.072864,251-275,United States of America,34.7,24.6,16.4,55.2,-,-,23065.0,10.7,7.0,57,2012
+269,Wayne State University,620,3,42.35861,-83.072864,301-350,United States of America,34.3,28.1,16.2,58.4,-,-,23065.0,10.7,7.0,57,2013
+270,Wayne State University,620,3,42.35861,-83.072864,301-350,United States of America,35.3,28.2,15.7,59.9,-,-,23065.0,10.7,7.0,57,2014
+271,Wayne State University,620,3,42.35861,-83.072864,301-350,United States of America,32.0,30.7,15.2,61.0,-,-,23065.0,10.7,7.0,57,2015
+272,Wayne State University,620,3,42.35861,-83.072864,351-400,United States of America,31.9,29.6,14.2,65.3,41.7,-,23065.0,10.7,7.0,57,2016
+273,George Mason University,1367,3,38.83088,-77.30794,301-350,United States of America,29.3,23.8,17.7,42.6,25.1,-,26622.0,17.0,7.0,54,2012
+274,George Mason University,1367,3,38.83088,-77.30794,351-400,United States of America,27.2,34.9,19.7,53.0,28.2,-,26622.0,17.0,7.0,54,2013
+275,George Mason University,1367,3,38.83088,-77.30794,351-400,United States of America,24.5,37.3,18.0,54.9,28.8,-,26622.0,17.0,7.0,54,2014
+276,George Mason University,1367,3,38.83088,-77.30794,351-400,United States of America,26.3,35.8,20.3,53.9,28.7,-,26622.0,17.0,7.0,54,2015
+277,George Mason University,1367,3,38.83088,-77.30794,301-350,United States of America,29.6,36.9,21.2,64.9,29.1,-,26622.0,17.0,7.0,54,2016
+278,Lehigh University,1105,3,40.607158,-75.378887,301-350,United States of America,20.2,26.5,18.1,44.9,38.6,-,6300.0,11.3,15.0,44,2012
+279,Lehigh University,1105,3,40.607158,-75.378887,351-400,United States of America,26.0,30.4,19.7,50.6,40.1,-,6300.0,11.3,15.0,44,2013
+280,Lehigh University,1105,3,40.607158,-75.378887,301-350,United States of America,28.9,35.7,16.0,53.7,39.7,-,6300.0,11.3,15.0,44,2014
+281,Lehigh University,1105,3,40.607158,-75.378887,351-400,United States of America,25.4,34.5,16.6,56.3,39.2,-,6300.0,11.3,15.0,44,2015
+282,Lehigh University,1105,3,40.607158,-75.378887,401-500,United States of America,23.9,36,15.0,58.2,38.9,-,6300.0,11.3,15.0,44,2016
+283,University of Houston,1275,3,29.719988,-95.344851,301-350,United States of America,36.5,27.7,23.6,23.6,31.2,-,40325.0,43.7,9.0,50,2012
+284,University of Houston,1275,3,29.719988,-95.344851,351-400,United States of America,37.5,32.6,25.0,35.0,35.7,-,40325.0,43.7,9.0,50,2013
+285,University of Houston,1275,3,29.719988,-95.344851,301-350,United States of America,37.0,31.5,23.8,42.4,36.9,-,40325.0,43.7,9.0,50,2014
+286,University of Houston,1275,3,29.719988,-95.344851,301-350,United States of America,39.3,33.1,25.8,44.2,43.2,-,40325.0,43.7,9.0,50,2015
+287,University of Houston,1275,3,29.719988,-95.344851,351-400,United States of America,34.9,33.9,26.5,52.0,42.3,-,40325.0,43.7,9.0,50,2016
+288,Washington State University,1412,3,46.730448,-117.158168,301-350,United States of America,28.8,31,24.5,33.5,34.3,-,24550.0,18.3,7.0,50,2012
+289,Washington State University,1412,3,46.730448,-117.158168,301-350,United States of America,29.9,33.9,30.6,47.1,55.8,-,24550.0,18.3,7.0,50,2013
+290,Washington State University,1412,3,46.730448,-117.158168,301-350,United States of America,28.4,35.2,26.5,46.1,55.6,-,24550.0,18.3,7.0,50,2014
+291,Washington State University,1412,3,46.730448,-117.158168,351-400,United States of America,28.5,36,27.5,44.2,54.5,-,24550.0,18.3,7.0,50,2015
+292,Washington State University,1412,3,46.730448,-117.158168,351-400,United States of America,29.0,39.6,28.2,49.6,57.1,-,24550.0,18.3,7.0,50,2016
+293,University of Georgia,252,3,33.956428,-83.374049,201-225,United States of America,44.4,30.6,36.4,37.3,27.7,-,33119.0,19.9,7.0,57,2012
+294,University of Georgia,252,3,33.956428,-83.374049,201-225,United States of America,45.4,36.2,40.1,46.8,31.3,-,33119.0,19.9,7.0,57,2013
+295,University of Georgia,252,3,33.956428,-83.374049,276-300,United States of America,39.6,35,28.9,46.1,30.7,-,33119.0,19.9,7.0,57,2014
+296,University of Georgia,252,3,33.956428,-83.374049,276-300,United States of America,39.7,35.3,28.9,46.6,31.1,-,33119.0,19.9,7.0,57,2015
+297,University of Georgia,252,3,33.956428,-83.374049,251-300,United States of America,41.1,39.2,30.5,52.2,30.9,-,33119.0,19.9,7.0,57,2016
+298,Colorado School of Mines,149,3,39.75079,-105.227148,201-225,United States of America,24.6,38.4,22.8,63.7,99.4,-,5287.0,18.2,12.0,26,2012
+299,Colorado School of Mines,149,3,39.75079,-105.227148,184,United States of America,24.9,51.2,22.5,94.3,66,48,5287.0,18.2,12.0,26,2013
+300,Colorado School of Mines,149,3,39.75079,-105.227148,139,United States of America,22.7,47.3,27.2,97.1,74.8,49.5,5287.0,18.2,12.0,26,2014
+301,Colorado School of Mines,149,3,39.75079,-105.227148,141,United States of America,26.1,52.6,26.7,97.1,79.4,50.9,5287.0,18.2,12.0,26,2015
+302,Colorado School of Mines,149,3,39.75079,-105.227148,251-300,United States of America,28.5,35.5,30.3,71.8,83.7,-,5287.0,18.2,12.0,26,2016
+303,University of Wisconsin-Madison,1464,3,43.073858,-89.405356,27,United States of America,74.3,23.8,77.3,90.6,55.3,75.8,39655.0,10.8,11.0,51,2012
+304,University of Wisconsin-Madison,1464,3,43.073858,-89.405356,31,United States of America,76.1,29.8,80.1,88.2,54.8,76.9,39655.0,10.8,11.0,51,2013
+305,University of Wisconsin-Madison,1464,3,43.073858,-89.405356,30,United States of America,69.8,32.3,67.7,87.2,51.2,71.1,39655.0,10.8,11.0,51,2014
+306,University of Wisconsin-Madison,1464,3,43.073858,-89.405356,29,United States of America,67.7,33.6,71.3,87.7,53.3,71.9,39655.0,10.8,11.0,51,2015
+307,University of Wisconsin-Madison,1464,3,43.073858,-89.405356,50,United States of America,65.1,33,68.2,86.6,48.5,69.7,39655.0,10.8,11.0,51,2016
+308,University of Miami,216,3,25.720406,-80.27645,172,United States of America,45.7,30.3,23.3,70.3,-,44.8,15286.0,5.7,14.0,50,2012
+309,University of Miami,216,3,25.720406,-80.27645,193,United States of America,48.7,33.1,27.0,69.7,-,46.9,15286.0,5.7,14.0,50,2013
+310,University of Miami,216,3,25.720406,-80.27645,185,United States of America,43.2,32.9,25.8,71.5,-,45.3,15286.0,5.7,14.0,50,2014
+311,University of Miami,216,3,25.720406,-80.27645,169,United States of America,42.7,56.7,27.2,73.1,-,48,15286.0,5.7,14.0,50,2015
+312,University of Miami,216,3,25.720406,-80.27645,161,United States of America,41.7,64,22.3,90.1,35.5,51.9,15286.0,5.7,14.0,50,2016
+313,Brandeis University,531,3,42.364947,-71.254716,150,United States of America,25.3,40.3,27.3,90.2,33.7,46.7,5495.0,12.6,22.0,55,2012
+314,Brandeis University,531,3,42.364947,-71.254716,201-225,United States of America,27.3,45.3,27.9,83.1,37.4,-,5495.0,12.6,22.0,55,2013
+315,Brandeis University,531,3,42.364947,-71.254716,164,United States of America,28.8,50.6,24.3,86.5,36.8,46.6,5495.0,12.6,22.0,55,2014
+316,Brandeis University,531,3,42.364947,-71.254716,147,United States of America,25.8,54.7,29.1,95.3,43.9,50.3,5495.0,12.6,22.0,55,2015
+317,Brandeis University,531,3,42.364947,-71.254716,185,United States of America,28.3,47,25.7,97.3,38.6,49.9,5495.0,12.6,22.0,55,2016
+318,University of Florida,211,3,29.638248,-82.361195,125,United States of America,46.7,25.9,59.9,50.9,-,50,50095.0,18.7,9.0,54,2012
+319,University of Florida,211,3,29.638248,-82.361195,122,United States of America,52.0,31.2,62.9,56.0,-,54.5,50095.0,18.7,9.0,54,2013
+320,University of Florida,211,3,29.638248,-82.361195,128,United States of America,48.0,30.9,49.9,59.9,-,50.4,50095.0,18.7,9.0,54,2014
+321,University of Florida,211,3,29.638248,-82.361195,126,United States of America,49.8,32.2,52.1,62.2,-,52.5,50095.0,18.7,9.0,54,2015
+322,University of Florida,211,3,29.638248,-82.361195,120,United States of America,51.8,33.3,56.8,67.7,-,56.1,50095.0,18.7,9.0,54,2016
+323,University of Rochester,852,3,43.126437,-77.631042,81,United States of America,47.0,45.7,33.5,94.5,36.4,56.8,9390.0,4.5,26.0,49,2012
+324,University of Rochester,852,3,43.126437,-77.631042,102,United States of America,46.0,45.9,37.8,92.3,39.6,57.2,9390.0,4.5,26.0,49,2013
+325,University of Rochester,852,3,43.126437,-77.631042,95,United States of America,42.8,50.7,29.9,89.7,41.4,53.6,9390.0,4.5,26.0,49,2014
+326,University of Rochester,852,3,43.126437,-77.631042,121,United States of America,41.9,55.5,29.2,87.7,36.4,52.7,9390.0,4.5,26.0,49,2015
+327,University of Rochester,852,3,43.126437,-77.631042,158,United States of America,39.7,55.8,27.9,89.0,37,52.1,9390.0,4.5,26.0,49,2016
+328,Northeastern University,560,3,42.339992,-71.088782,201-225,United States of America,30.4,38,18.9,70.0,31.1,-,18539.0,15.1,26.0,50,2012
+329,Northeastern University,560,3,42.339992,-71.088782,201-225,United States of America,40.1,41,21.2,76.4,33.8,-,18539.0,15.1,26.0,50,2013
+330,Northeastern University,560,3,42.339992,-71.088782,184,United States of America,34.5,48.5,19.8,82.0,34.5,45.4,18539.0,15.1,26.0,50,2014
+331,Northeastern University,560,3,42.339992,-71.088782,185,United States of America,36.4,54.7,21.9,81.3,34,46.8,18539.0,15.1,26.0,50,2015
+332,Northeastern University,560,3,42.339992,-71.088782,201-250,United States of America,35.5,58.7,20.6,84.0,32.9,-,18539.0,15.1,26.0,50,2016
+333,Florida Institute of Technology,206,3,28.064503,-80.624628,226-250,United States of America,16.2,58.4,11.9,92.5,28.7,-,4408.0,13.7,26.0,34,2013
+334,Florida Institute of Technology,206,3,28.064503,-80.624628,197,United States of America,15.9,61.5,14.5,99.0,44.7,44.6,4408.0,13.7,26.0,34,2014
+335,Florida Institute of Technology,206,3,28.064503,-80.624628,200,United States of America,19.7,63,13.1,99.2,53.7,45.6,4408.0,13.7,26.0,34,2015
+336,Florida Institute of Technology,206,3,28.064503,-80.624628,601-800,United States of America,20.4,62.4,13.5,24.6,33.4,-,4408.0,13.7,26.0,34,2016
+337,University of Connecticut,166,3,41.808205,-72.249519,251-275,United States of America,42.5,40.5,29.7,50.0,32.6,-,25742.0,13.0,11.0,51,2013
+338,University of Connecticut,166,3,41.808205,-72.249519,301-350,United States of America,36.1,38.7,22.8,49.9,31.7,-,25742.0,13.0,11.0,51,2014
+339,University of Connecticut,166,3,41.808205,-72.249519,301-350,United States of America,37.6,38.8,27.1,45.4,31.1,-,25742.0,13.0,11.0,51,2015
+340,University of Connecticut,166,3,41.808205,-72.249519,301-350,United States of America,35.9,43.1,25.6,57.0,30.9,-,25742.0,13.0,11.0,51,2016
+341,Oregon State University,1050,3,44.56274,-123.274721,276-300,United States of America,27.1,34.2,24.2,64.1,31,-,22578.0,16.8,9.0,47,2013
+342,Oregon State University,1050,3,44.56274,-123.274721,301-350,United States of America,25.7,35.4,19.7,63.5,31.6,-,22578.0,16.8,9.0,47,2014
+343,Oregon State University,1050,3,44.56274,-123.274721,301-350,United States of America,27.8,36.7,21.1,63.3,32,-,22578.0,16.8,9.0,47,2015
+344,Oregon State University,1050,3,44.56274,-123.274721,251-300,United States of America,30.6,42.8,28.5,63.8,32.1,-,22578.0,16.8,9.0,47,2016
+345,University of Kansas,416,3,38.957351,-95.24587,276-300,United States of America,33.2,23.5,20.1,43.0,27.6,-,,,,,2012
+346,University of Kansas,416,3,38.957351,-95.24587,276-300,United States of America,36.1,28.1,20.5,57.2,34.5,-,,,,,2013
+347,University of Kansas,416,3,38.957351,-95.24587,276-300,United States of America,33.9,33.6,19.8,59.9,35.9,-,,,,,2014
+348,University of Kansas,416,3,38.957351,-95.24587,301-350,United States of America,30.6,32.2,20.1,62.2,36.2,-,,,,,2015
+349,Kansas State University,418,3,39.188616,-96.581077,350-400,United States of America,20.9,23.6,13.8,33.9,36,-,21379.0,15.1,10.0,50,2012
+350,Kansas State University,418,3,39.188616,-96.581077,301-350,United States of America,26.1,34.1,15.5,57.4,38.7,-,21379.0,15.1,10.0,50,2014
+351,Kansas State University,418,3,39.188616,-96.581077,301-350,United States of America,27.0,41.5,16.5,61.0,39.2,-,21379.0,15.1,10.0,50,2015
+352,Kansas State University,418,3,39.188616,-96.581077,501-600,United States of America,22.9,41.7,17.5,39.3,43.1,-,21379.0,15.1,10.0,50,2016
+353,Creighton University,716,3,41.265325,-95.947029,226-250,United States of America,43.6,25,10.5,55.7,24.2,-,7086.0,8.3,2.0,57,2012
+354,Creighton University,716,3,41.265325,-95.947029,301-350,United States of America,42.4,26,9.3,61.0,-,-,7086.0,8.3,2.0,57,2013
+355,Creighton University,716,3,41.265325,-95.947029,276-300,United States of America,41.3,21.7,10.9,68.2,-,-,7086.0,8.3,2.0,57,2014
+356,Creighton University,716,3,41.265325,-95.947029,301-350,United States of America,40.7,29.1,10.4,63.3,32.4,-,7086.0,8.3,2.0,57,2015
+357,University of Vermont,1357,3,44.479262,-73.198128,301-350,United States of America,28.5,19.9,20.6,58.6,-,-,,,,,2013
+358,University of Vermont,1357,3,44.479262,-73.198128,301-350,United States of America,26.6,21,19.3,57.4,-,-,,,,,2014
+359,University of Vermont,1357,3,44.479262,-73.198128,351-400,United States of America,26.8,21,19.4,57.5,-,-,,,,,2015
+360,University of Nebraska-Lincoln,724,3,40.822272,-96.702177,251-275,United States of America,32.6,42,30.0,52.4,34.2,-,21789.0,16.4,9.0,46,2014
+361,University of Nebraska-Lincoln,724,3,40.822272,-96.702177,276-300,United States of America,31.0,47.8,24.4,57.5,35,-,21789.0,16.4,9.0,46,2015
+362,University of Nebraska-Lincoln,724,3,40.822272,-96.702177,301-350,United States of America,30.1,45.8,30.2,53.5,35.6,-,21789.0,16.4,9.0,46,2016
+363,San Diego State University,127,3,32.77525,-117.071228,351-400,United States of America,15.0,22.2,23.1,61.1,29.2,-,27420.0,31.7,5.0,57,2014
+364,San Diego State University,127,3,32.77525,-117.071228,301-350,United States of America,19.7,26.9,24.8,65.6,29.2,-,27420.0,31.7,5.0,57,2015
+365,San Diego State University,127,3,32.77525,-117.071228,351-400,United States of America,20.3,25.9,27.0,62.7,29.3,-,27420.0,31.7,5.0,57,2016
+366,University of Wyoming,1469,3,41.311943,-105.57204,350-400,United States of America,18.4,21.8,20.9,36.7,29.8,-,,,,,2012
+367,University of Wyoming,1469,3,41.311943,-105.57204,351-400,United States of America,18.6,28.1,24.2,47.5,30.9,-,,,,,2013
+368,University of Wyoming,1469,3,41.311943,-105.57204,351-400,United States of America,18.9,29.7,28.6,46.1,29.6,-,,,,,2014
+369,Temple University,1160,3,39.980943,-75.158267,351-400,United States of America,37.2,20.1,18.8,43.3,-,-,33268.0,13.3,5.0,51,2013
+370,Temple University,1160,3,39.980943,-75.158267,351-400,United States of America,35.4,22.4,15.0,42.4,-,-,33268.0,13.3,5.0,51,2014
+371,Temple University,1160,3,39.980943,-75.158267,351-400,United States of America,34.0,28.6,18.2,58.3,41.6,-,33268.0,13.3,5.0,51,2016
+372,Georgia State University,251,3,33.7527,-84.38667,350-400,United States of America,19.6,27.9,20.2,34.4,39.1,-,28534.0,20.4,5.0,59,2012
+373,Georgia State University,251,3,33.7527,-84.38667,401-500,United States of America,26.3,29.5,19.5,52.9,28.7,-,28534.0,20.4,5.0,59,2016
+374,Clemson University,1190,3,34.677329,-82.834463,350-400,United States of America,20.8,28.5,17.0,25.5,30.8,-,19198.0,17.1,8.0,46,2012
+375,Clemson University,1190,3,34.677329,-82.834463,601-800,United States of America,21.4,34.6,19.7,27.0,35.8,-,19198.0,17.1,8.0,46,2016
+376,Syracuse University,891,3,43.040525,-76.136738,177,United States of America,32.4,41.2,24.4,87.1,40.6,47.3,19660.0,15.9,15.0,55,2015
+377,Syracuse University,891,3,43.040525,-76.136738,251-300,United States of America,31.4,38.3,20.8,77.1,36.3,-,19660.0,15.9,15.0,55,2016
+378,University of Kentucky,443,3,38.032393,-84.509177,276-300,United States of America,38.7,18.3,28.4,35.2,-,-,,,,,2012
+379,University of Kentucky,443,3,38.032393,-84.509177,301-350,United States of America,39.1,21.7,27.8,45.5,-,-,,,,,2013
+380,University of Alaska Fairbanks,30,3,64.857053,-147.824751,276-300,United States of America,26.1,38.2,25.5,57.4,52.5,-,3837.0,8.2,7.0,53,2014
+381,University of Alaska Fairbanks,30,3,64.857053,-147.824751,301-350,United States of America,25.1,53.5,23.1,63.0,51.2,-,3837.0,8.2,7.0,53,2016
+382,University of Oregon,1051,3,44.044515,-123.07398,251-275,United States of America,31.5,30.2,21.7,70.4,-,-,24418.0,20.2,11.0,52,2013
+383,University of Oregon,1051,3,44.044515,-123.07398,301-350,United States of America,21.2,33.5,22.7,72.6,30.8,-,24418.0,20.2,11.0,52,2016
+384,Auburn University,9,3,32.600201,-85.492409,350-400,United States of America,33.7,22.5,18.7,10.3,47.3,-,22386.0,17.6,4.0,51,2012
+385,Auburn University,9,3,32.600201,-85.492409,501-600,United States of America,30.2,27.9,19.4,21.0,37.2,-,22386.0,17.6,4.0,51,2016
+386,University of Idaho,280,3,46.726894,-117.024296,350-400,United States of America,29.4,27.4,16.2,24.0,25.5,-,11641.0,21.5,6.0,47,2012
+387,University of Idaho,280,3,46.726894,-117.024296,401-500,United States of America,28.3,32,19.4,40.8,32.4,-,11641.0,21.5,6.0,47,2016
+388,Old Dominion University,1379,3,36.884919,-76.309653,350-400,United States of America,17.1,27.3,12.5,46.9,-,-,,,,,2012
+389,Old Dominion University,1379,3,36.884919,-76.309653,351-400,United States of America,21.3,30.2,14.3,58.7,-,-,,,,,2014
+390,New Jersey Institute of Technology,760,3,40.741997,-74.177113,350-400,United States of America,17.1,41.3,14.5,26.4,37.5,-,10646.0,26.2,17.0,25,2012
+391,New Jersey Institute of Technology,760,3,40.741997,-74.177113,501-600,United States of America,18.9,48.5,16.6,32.2,32.2,-,10646.0,26.2,17.0,25,2016
+392,University of Tulsa,1041,3,36.151887,-95.945175,501-600,United States of America,29.7,43.8,12.9,24.6,71.7,-,4597.0,12.5,25.0,43,2016
+393,University of North Carolina at Greensboro,933,3,36.067503,-79.809844,501-600,United States of America,18.2,17.4,15.3,43.1,28.9,-,16446.0,19.2,2.0,66,2016
+394,Portland State University,1053,3,45.511229,-122.683553,501-600,United States of America,16.8,31.6,14.4,43.3,44.6,-,20398.0,22.2,8.0,54,2016
+395,University of Toledo,1007,3,41.65795,-83.615225,501-600,United States of America,31.6,37.7,13.4,29.9,32.9,-,19465.0,17.5,9.0,50,2016
+396,University of Wisconsin-Milwaukee,1465,3,43.076848,-87.880488,501-600,United States of America,17.3,26,13.8,45.5,29,-,22542.0,18.4,5.0,52,2016
+397,Rochester Institute of Technology,851,3,43.090325,-77.67521,601-800,United States of America,17.4,29.8,13.4,25.1,30.4,-,12965.0,13.5,13.0,34,2016
+398,Oakland University,613,3,42.672586,-83.218866,601-800,United States of America,18.1,23.3,11.9,21.9,30.3,-,14584.0,19.8,2.0,60,2016
+399,Missouri University of Science and Technology,687,3,37.955853,-91.7759,501-600,United States of America,23.5,40.6,18.4,28.7,52.8,-,7647.0,15.5,12.0,23,2016
+400,University of Southern Mississippi,665,3,31.327499,-89.33791,601-800,United States of America,21.0,20.8,11.8,20.1,39.9,-,14569.0,18.5,3.0,63,2016
+401,Montana State University,708,3,45.666829,-111.049918,501-600,United States of America,17.7,23.5,21.8,48.0,43,-,12331.0,17.8,4.0,46,2016
+402,University of Arkansas,44,3,36.06153,-94.178214,501-600,United States of America,25.5,25.9,17.4,30.3,36.9,-,22819.0,21.2,5.0,50,2016
+403,University of San Francisco,130,3,37.775564,-122.450977,401-500,United States of America,34.2,40.1,12.9,43.8,28.6,-,10788.0,17.0,17.0,63,2016
+404,Michigan Technological University,608,3,47.1183,-88.546403,350-400,United States of America,21.2,32.3,13.8,24.8,41.9,-,,,,,2012
+405,Southern Methodist University,1299,3,32.845254,-96.784855,351-400,United States of America,18.6,35.2,9.0,67.3,-,-,,,,,2013
+406,Illinois Institute of Technology,305,3,41.833801,-87.628346,301-350,United States of America,40.2,59.4,17.3,50.3,-,-,,,,,2015
+407,Florida State University,210,3,30.4421,-84.294801,201-250,United States of America,38.5,41.6,40.1,64.7,32,-,41226.0,31.8,7.0,55,2016
+408,Saint Louis University,694,3,38.636516,-90.23343,251-300,United States of America,36.9,26.6,10.9,85.0,29.9,-,11919.0,5.8,8.0,58,2016
+409,University of South Dakota,1222,3,42.784558,-96.924664,351-400,United States of America,29.3,17.1,12.1,70.4,28,-,8003.0,17.1,2.0,61,2016
+410,American University,185,3,38.937802,-77.090106,401-500,United States of America,42.2,28.9,16.5,41.1,35.9,-,11604.0,12.0,12.0,60,2016
+411,Florida International University,207,3,25.757111,-80.377591,401-500,United States of America,25.7,32.8,18.1,49.4,32.7,-,32566.0,25.9,7.0,56,2016
+412,Howard University,191,3,38.920739,-77.019478,401-500,United States of America,38.8,30.3,11.0,44.5,-,-,10297.0,6.8,5.0,65,2016
+413,Texas Tech University,1322,3,33.580309,-101.876917,601-800,United States of America,27.9,36.8,17.2,22.0,-,-,29512.0,20.9,7.0,46,2016
