@@ -6,4 +6,6 @@ A tertiary education is regarded as of utmost importance for students in the Uni
 
 ## End Result
 
+![alt text](https://github.com/GuanSoh/Interactive-Dashboard-with-D3.js-US-Universities-Ranked-by-Performance-/blob/main/Image/Dashboard%201.jpg)
 
+![alt text](https://github.com/GuanSoh/Interactive-Dashboard-with-D3.js-US-Universities-Ranked-by-Performance-/blob/main/Image/Dashboard%202.jpg)
